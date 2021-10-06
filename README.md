@@ -47,7 +47,7 @@ $gWAF->checkCOOKIE();
 ```
 
 # CSRF Validation Example
-Please read test.php
+Please read demo.php
 
 # Requirements
 - [x] Min: PHP5.3 (With common functions)
